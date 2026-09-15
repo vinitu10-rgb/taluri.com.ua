@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taluri.com/sitemap.xml
+Sitemap: https://taluri.com.ua/sitemap.xml
